@@ -1,5 +1,4 @@
-# Desafio Everymind - Best Minds 2024.2
-#### CRUD feito com o Bootstrap e JQuery no frontend e Laravel no backend.
+## CRUD feito com o Bootstrap e JQuery no frontend e Laravel no backend.
 
 ## Stack utilizada
 
